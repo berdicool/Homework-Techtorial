@@ -1,0 +1,7 @@
+Home work #1
+1. Open chrome
+2. Navigate to techtorialacademy.com
+3. Login 
+4. Sign up for class 
+5. Set Reminder 
+6. Logout
